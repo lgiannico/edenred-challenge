@@ -1,0 +1,16 @@
+.MuiPickersToolbar-toolbar{
+    background-color: #d43f3a!important;
+    padding:10px!important;
+}
+
+.MuiPickersCalendar-transitionContainer{
+    margin-top: 0%!important;
+    min-height: 10px!important;
+    height: 110px!important;
+}
+
+.MuiPickersBasePicker-pickerView{
+    display: block!important;
+    min-height: 0%!important;
+    height: 260px!important;
+}
